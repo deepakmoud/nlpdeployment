@@ -73,9 +73,9 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">Demo Session on NLP</p></center> 
-   <center><p style="font-size:30px;color:white;margin-top:10px;">Introduction to NLP with an example</p></center> 
-   <center><p style="font-size:25px;color:white;margin-top:10px;">Restuarant Comment Analysis</p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">Machine Learning for NLP</p></center> 
+   <center><p style="font-size:30px;color:white;margin-top:10px;">LO2: Understanding text processing and vectorization of ML </p></center> 
+   <center><p style="font-size:25px;color:white;margin-top:10px;">Use case:Restuarant Comment Analysis usin ML </p></center> 
    </div>
    </div>
    </div>
